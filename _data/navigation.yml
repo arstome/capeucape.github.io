@@ -4,11 +4,10 @@
   url: /posts/WebWorks/
   excerpt: "砥砺前行，全力以赴"
   image: WebWorks.jpg
-<<<<<<< HEAD
   
 - title: visualization Works
   url: /portfolio/
-  excerpt: "搬斤播两 真相大白"
+  excerpt: "搬斤播两，真相大白"
   image: visualization_Works.jpg
 
 - title: i18nl10n
@@ -25,5 +24,3 @@
   url: /contact/
   excerpt: "联络我"
   image: Pigeon_post.jpg
-=======
->>>>>>> 835f70c99bb2f3b4c6f108140fb86b67ac59b9db
