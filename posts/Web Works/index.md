@@ -6,11 +6,11 @@ modified:
 excerpt: "砥砺前行，全力以赴"
 tags: []
 image: 
-  feature: Web Works.jpg
+  feature: WebWorks.jpg
   teaser:
 ---
 
-一个网站是如何制作出来的
+ 一个网站是如何制作出来的
 
 <div class="tiles">
 {% for post in site.categories.teaching %}
