@@ -6,9 +6,10 @@ modified:
 excerpt: "网页制作作品集"
 tags: []
 image: 
-  feature: http://03.imgmini.eastday.com/mobile/20160704/20160704035541_23e59f7e3d06dab37bab52ea5779bd57_1.gif
+  feature: stick.gif
   teaser:
 ---
+
 
 期中作业
 
