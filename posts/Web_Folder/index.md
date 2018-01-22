@@ -6,7 +6,7 @@ modified:
 excerpt: "网页制作作品集"
 tags: []
 image: 
-  feature: stick.gif
+  feature: http://p1.so.qhimgs1.com/t0115951822b8884efd.jpg
   teaser:
 ---
 
