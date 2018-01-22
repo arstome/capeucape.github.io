@@ -5,7 +5,7 @@ date:   2018-01-22 08:45:50 +0800
 categories: notes_tech Jekyll
 image:
   teaser: Jekyll_skinny_bones.jpg
-  feature: 
+  feature: Jekyll_skinny_bones.jpg
 ---
 ## 不论是数据挖掘还是数据分析，可视化都是一个必不可少的环节，因为你需要用数据去为大家讲一个故事。
 
